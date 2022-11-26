@@ -2,6 +2,10 @@
  <link href="css/vendor/responsive.bootstrap4.css" rel="stylesheet" type="text/css" />
 
 <!-- App css -->
+<link href="wsp_rad/assets/libs/jquery-nice-select/nice-select.css" rel="stylesheet" type="text/css" />
+        <link href="wsp_rad/assets/libs/switchery/switchery.min.css" rel="stylesheet">
+        <link href="wsp_rad/assets/libs/select2/select2.min.css" rel="stylesheet" type="text/css" />
+        <link href="wsp_rad/assets/libs/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet" /> 
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <link href="css/icons.min.css" rel="stylesheet" type="text/css" />
          <link href="css/app.min.css" rel="stylesheet" type="text/css" />
@@ -10,6 +14,7 @@
         <link href="wsp_rad/assets/css/jquery-ui.css" rel="stylesheet" type="text/css" />
         <link href="wsp_rad/assets/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css" />
         <link href="wsp_rad/assets/css/responsive.dataTables.min.css" rel="stylesheet" type="text/css" />
+      
         <style>
         .select2-container{width:100%!important;}
             .form-control{

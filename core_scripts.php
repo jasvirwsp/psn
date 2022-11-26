@@ -1,4 +1,5 @@
  <!-- App js -->
+
  <script src="js/vendor.min.js"></script>
         <script src="js/app.min.js"></script>
         <script src="wsp_rad/assets/js//sweetalert.min.js"></script>
@@ -9,6 +10,11 @@
     <script src="js/rad_auto_suggestions.js"></script>
     <script src="wsp_rad/assets/js/jquery.dataTables.min.js"></script>
     <script src="wsp_rad/assets/js/dataTables.responsive.min.js"></script>
+    <script src="wsp_rad/assets/libs/jquery-nice-select/jquery.nice-select.min.js"></script>
+        <script src="wsp_rad/assets/libs/switchery/switchery.min.js"></script>
+        <script src="wsp_rad/assets/libs/select2/select2.min.js"></script>
+        <script src="wsp_rad/assets/libs/moment/moment.min.js"></script>
+        <script src="wsp_rad/assets/libs/jquery-mask-plugin/jquery.mask.min.js"></script>
         <script>
 // Auto Select DB Values
 $(".db_auto_chose").each(function(){  
