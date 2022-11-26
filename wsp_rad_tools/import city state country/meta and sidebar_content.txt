@@ -1,0 +1,28 @@
+<li>
+    <a href="state.php">
+        <i class="fe-list"></i>                                  
+        <span>State</span>
+    </a>
+</li>
+
+    <li>
+    <a href="district.php">
+        <i class="fe-list"></i>                                  
+        <span>Districts</span>
+    </a>
+</li>
+
+        
+        <li>
+    <a href="city.php">
+        <i class="fe-list"></i>                                  
+        <span>City</span>
+    </a>
+</li>
+
+
+
+
+$meta_keys_of_district = array('record_id','district_name');
+$meta_keys_of_city = array('record_id','city_name');
+$meta_keys_of_state = array('record_id','state_name');
